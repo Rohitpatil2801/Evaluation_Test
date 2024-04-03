@@ -1,0 +1,564 @@
+{
+  "Element": [
+    {
+      "Category": "Walls",
+      "Data": [
+        {
+          "ElementName": "Generic - 8\"",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Generic - 8\"",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Generic - 8\"",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Levels",
+      "Data": [
+        {
+          "ElementName": "L1",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "L2",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": null,
+      "Data": [
+        {
+          "ElementName": "Grid Line 1/2\"",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "<Lines>",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Phases",
+      "Data": [
+        {
+          "ElementName": "New Construction",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Doors",
+      "Data": [
+        {
+          "ElementName": "68\" x 84\"",
+          "Transformation": {
+            "transformationObjectM03": -29.45366096496582,
+            "transformationObjectM13": -7.4114956855773926,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": -1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": -1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "68\" x 80\"",
+          "Transformation": {
+            "transformationObjectM03": -8.3703279495239258,
+            "transformationObjectM13": 11.567670822143555,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 0.0,
+            "transformationObjectM01": 1.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": -1.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Windows",
+      "Data": [
+        {
+          "ElementName": "28\" x 46\"",
+          "Transformation": {
+            "transformationObjectM03": -48.349494934082031,
+            "transformationObjectM13": 13.567670822143555,
+            "transformationObjectM23": 3.6601955890655518,
+            "transformationObjectM00": 0.0,
+            "transformationObjectM01": 1.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": -1.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "36\" x 48\"",
+          "Transformation": {
+            "transformationObjectM03": -43.016162872314453,
+            "transformationObjectM13": -7.4323287010192871,
+            "transformationObjectM23": 2.3571207523345947,
+            "transformationObjectM00": -1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": -1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Generic Models",
+      "Data": [
+        {
+          "ElementName": "with Sill",
+          "Transformation": {
+            "transformationObjectM03": -48.016162872314453,
+            "transformationObjectM13": 13.567670822143555,
+            "transformationObjectM23": 10.493529319763184,
+            "transformationObjectM00": 0.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 1.0,
+            "transformationObjectM10": 1.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 1.0,
+            "transformationObjectM22": 0.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Muntin Pattern_2x2",
+          "Transformation": {
+            "transformationObjectM03": -48.130744934082031,
+            "transformationObjectM13": 13.567670822143555,
+            "transformationObjectM23": 8.6497793197631836,
+            "transformationObjectM00": 0.0,
+            "transformationObjectM01": 1.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": -1.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Picture Frame",
+          "Transformation": {
+            "transformationObjectM03": -48.682826995849609,
+            "transformationObjectM13": 13.567670822143555,
+            "transformationObjectM23": 10.493529319763184,
+            "transformationObjectM00": 0.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": -1.0,
+            "transformationObjectM10": -1.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 1.0,
+            "transformationObjectM22": 0.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Muntin Pattern_2x2",
+          "Transformation": {
+            "transformationObjectM03": -48.276576995849609,
+            "transformationObjectM13": 13.567670822143555,
+            "transformationObjectM23": 6.9101958274841309,
+            "transformationObjectM00": 0.0,
+            "transformationObjectM01": 1.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": -1.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Muntin Pattern_2x2",
+          "Transformation": {
+            "transformationObjectM03": -43.016162872314453,
+            "transformationObjectM13": -7.73441219329834,
+            "transformationObjectM23": 5.4821209907531738,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Picture Frame",
+          "Transformation": {
+            "transformationObjectM03": -43.016162872314453,
+            "transformationObjectM13": -7.0989956855773926,
+            "transformationObjectM23": 9.3571205139160156,
+            "transformationObjectM00": -1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": 1.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 1.0,
+            "transformationObjectM22": 0.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "with Sill",
+          "Transformation": {
+            "transformationObjectM03": -43.016162872314453,
+            "transformationObjectM13": -7.76566219329834,
+            "transformationObjectM23": 9.3571205139160156,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 0.0,
+            "transformationObjectM12": -1.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 1.0,
+            "transformationObjectM22": 0.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Lines",
+      "Data": [
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        },
+        {
+          "ElementName": "Model Lines",
+          "Transformation": {
+            "transformationObjectM03": 0.0,
+            "transformationObjectM13": 0.0,
+            "transformationObjectM23": 0.0,
+            "transformationObjectM00": 1.0,
+            "transformationObjectM01": 0.0,
+            "transformationObjectM02": 0.0,
+            "transformationObjectM10": 0.0,
+            "transformationObjectM11": 1.0,
+            "transformationObjectM12": 0.0,
+            "transformationObjectM20": 0.0,
+            "transformationObjectM21": 0.0,
+            "transformationObjectM22": 1.0,
+            "transformationObjectM30": 0.0,
+            "transformationObjectM31": 0.0,
+            "transformationObjectM32": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
