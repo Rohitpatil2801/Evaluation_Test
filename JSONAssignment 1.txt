@@ -1,0 +1,204 @@
+JSON file data Creation --> First create a JSON array of elements which contains data in the key value of an Object, 
+example -> 
+{
+  "Element": [
+    {
+      "Category": "Walls",
+      "Data": [
+        {
+          "ElementName": "Example1",
+          "Transformation": {
+            "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+
+			
+          }
+        },
+        {
+          "ElementName": "Example2",
+          "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        },
+        {
+          "ElementName": "Example3",
+           "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Windows",
+      "Data": [
+        {
+          "ElementName": "Example1",
+          "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        },
+        {
+          "ElementName": "Example2",
+           "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        },
+        {
+          "ElementName": "Example3",
+          "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        }
+      ]
+    },
+    {
+      "Category": "Doors",
+      "Data": [
+        {
+          "ElementName": "Example1",
+           "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        },
+        {
+          "ElementName": "Example2",
+           "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        },
+        {
+          "ElementName": "Example3",
+           "Transformation": {
+           "transformationObject.M03 ": 0.0,
+            "transformationObject.M13": 0.0,
+            "transformationObject.M23": 0.0,
+			"transformationObject.M00": 0.0,
+			"transformationObject.M01": 0.0;
+			"transformationObject.M02": 0.0;
+			"transformationObject.M10 ":0.0;
+            "transformationObject.M11" : 0.0;
+            "transformationObject.M12 ":0.0;
+            "transformationObject.M20 ":  0.0;
+            "transformationObject.M21 ": 0.0;
+            "transformationObject.M22 ": 0.0;
+            "transformationObject.M30 "; 0.0;
+            "transformationObject.M31" ; 0.0;
+            "transformationObject.M32 "; 0.0;
+          }
+        }
+      ]
+    }
+  ]
+}
+ it needs to save all data respectively for Door and Wall. And lastly, it should be converted into an array of array
