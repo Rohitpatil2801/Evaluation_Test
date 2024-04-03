@@ -1,1 +1,44 @@
-
+public void WriteJsonFormat(List<Element> elementList)
+    {
+        JArray elementArray = new JArray();
+ 
+        foreach (var categoryGroup in elementList.GroupBy(e => e.Category))
+        {
+            JArray data = new JArray();
+ 
+            foreach (var element in categoryGroup)
+            {
+                float[] matrix = element.Asset.Transformation.MatrixRepresentation.Elements;
+ 
+                JObject transformationObj = new JObject();
+                for (int i = 0; i < 4; i++)
+                {
+                    for (int j = 0; j < 4; j++)
+                    {
+                        var value = matrix[i * 4 + j];
+                        transformationObj.Add(new JProperty($"transformationObject.M{i}{j}", (double)value));
+                    }
+                }
+ 
+                JObject elementObj = new JObject(
+                    new JProperty("ElementName", element.Name),
+                    new JProperty("Transformation", transformationObj)
+                );
+ 
+                data.Add(elementObj);
+            }
+ 
+            JObject categoryObj = new JObject(
+                new JProperty("Category", categoryGroup.Key),
+                new JProperty("Data", data)
+            );
+ 
+            elementArray.Add(categoryObj);
+        }
+ 
+        JObject elementsObj = new JObject(new JProperty("Element", elementArray));
+ 
+        string jsonString = elementsObj.ToString(Formatting.Indented);
+ 
+        File.WriteAllText(@"D:\Rohit\Incubation\PSET Work\grasshopper-connector-Dev\DataExchangeGrasshopperConnector.Test\MockData\Element3.json", jsonString);
+    }
